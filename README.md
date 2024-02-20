@@ -38,5 +38,5 @@ Main branch has a folder named `testFolder`, you can test the code on this folde
 If you want to compare only specific file extensions, you can pass in an option to look for specific file extensions. For example, to look for only `.txt` and `.md` files, you can run the following command
 
 ```bash
-    cargo run -- testFolder txt md
+    cargo run -- testFolder lip maw
 ```
